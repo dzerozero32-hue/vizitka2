@@ -1,0 +1,6 @@
+{
+  "name": "Sam Soft Line",
+  "description": "Инженерный B2B-прототип сайта компании Sam Soft Line (1С, веб-порталы, мобильные и десктопные приложения, обслуживание техники).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
